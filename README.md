@@ -12,7 +12,7 @@ See [Eigen](https://eigen.tuxfamily.org/) for more information about Eigen.
 
 ## make
 
-Change the LIBS in makefile to the Eigen directory.
+Change the INC in makefile to the Eigen directory.
 
 ## ./main arg
 arg: mesh number along each direction
